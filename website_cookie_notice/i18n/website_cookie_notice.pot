@@ -140,4 +140,3 @@ msgstr ""
 #: help:res.company,cookieAnalytics:0
 msgid "just using a simple analytics package? change this to true"
 msgstr ""
-
