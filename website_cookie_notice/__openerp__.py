@@ -5,11 +5,11 @@
 {
     'name': 'Cookie notice',
     'summary': 'Show cookie notice according to cookie law',
-    'version': '9.0.2.1.0',
+    'version': '9.0.1.0.0',
     'category': 'Website',
-    'author': "Agile Business Group, "
+    'author': u"Agile Business Group, "
               u"Antiun Ingeniería S.L., "
-              "Odoo Community Association (OCA)",
+              u"Odoo Community Association (OCA)",
     'website': 'http://www.agilebg.com',
     'license': 'AGPL-3',
     'depends': [
