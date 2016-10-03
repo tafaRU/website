@@ -7,9 +7,9 @@
     'summary': 'Show cookie notice according to cookie law',
     'version': '9.0.1.0.0',
     'category': 'Website',
-    'author': u"Agile Business Group, "
-              u"Antiun Ingeniería S.L., "
-              u"Odoo Community Association (OCA)",
+    'author': "Agile Business Group, "
+              "Tecnativa, "
+              "Odoo Community Association (OCA)",
     'website': 'http://www.agilebg.com',
     'license': 'AGPL-3',
     'depends': [
